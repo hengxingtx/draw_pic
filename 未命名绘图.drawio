@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T13:54:46.871Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="PZKCYEw67DBqNBBKnPJZ" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-07T14:18:25.574Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="cPehb2Xa-NGOn68cERpY" version="20.8.23" type="github">
   <diagram name="第 1 页" id="Ley3T1oHCzhXuV9W0R5z">
     <mxGraphModel dx="2261" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,20 +42,20 @@
         <mxCell id="DcJqsoQAITfwaPWHc3Mr-6" value="InstructGPT&lt;br style=&quot;font-size: 14px;&quot;&gt;2022/01&lt;br style=&quot;font-size: 14px;&quot;&gt;13亿&lt;br style=&quot;font-size: 14px;&quot;&gt;45T+46K(RLHF)+31k(fine-tuning)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="660" y="250" width="180" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="DcJqsoQAITfwaPWHc3Mr-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontSize=14;" edge="1" parent="1" source="DcJqsoQAITfwaPWHc3Mr-7">
+        <mxCell id="DcJqsoQAITfwaPWHc3Mr-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontSize=14;" edge="1" parent="1" source="DcJqsoQAITfwaPWHc3Mr-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="570" y="390" as="targetPoint" />
+            <mxPoint x="575" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DcJqsoQAITfwaPWHc3Mr-7" value="GPT3&lt;br style=&quot;font-size: 14px;&quot;&gt;2020/05&lt;br style=&quot;font-size: 14px;&quot;&gt;1750亿&lt;br style=&quot;font-size: 14px;&quot;&gt;45TB" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="540" y="250" width="60" height="90" as="geometry" />
+        <mxCell id="DcJqsoQAITfwaPWHc3Mr-7" value="GPT3&lt;br style=&quot;font-size: 14px;&quot;&gt;2020/05&lt;br style=&quot;font-size: 14px;&quot;&gt;1750亿&lt;br style=&quot;font-size: 14px;&quot;&gt;500B words ≈45TB" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="530" y="250" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="DcJqsoQAITfwaPWHc3Mr-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontSize=14;" edge="1" parent="1" source="DcJqsoQAITfwaPWHc3Mr-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-85" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DcJqsoQAITfwaPWHc3Mr-8" value="BERT&lt;br style=&quot;font-size: 14px;&quot;&gt;2018/10&lt;br style=&quot;font-size: 14px;&quot;&gt;3亿&lt;br style=&quot;font-size: 14px;&quot;&gt;3.3B words ≈15G" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="DcJqsoQAITfwaPWHc3Mr-8" value="BERT&lt;br style=&quot;font-size: 14px;&quot;&gt;2018/10&lt;br style=&quot;font-size: 14px;&quot;&gt;3亿&lt;br style=&quot;font-size: 14px;&quot;&gt;3.3B words ≈25G" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="-140" y="420" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DcJqsoQAITfwaPWHc3Mr-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;fontSize=14;" edge="1" parent="1" source="DcJqsoQAITfwaPWHc3Mr-9">
